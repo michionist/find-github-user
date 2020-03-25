@@ -1,0 +1,22 @@
+.button__container {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.button {
+  background-color: green;
+  border: none;
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  width: 200px;
+}
+
+.text-input {
+  width: 400px;
+  height: 30px;
+  font-size: 18px;
+  background-color: azure;
+  display: block;
+  margin: 20px auto;
+}
