@@ -39,7 +39,7 @@ class App extends React.Component {
           className="text-input"
         />
         <button onClick={this.handleClick} className="button">
-          Show me
+          Show user details
         </button>
         <p>
           Fullname: <strong>{this.state.userData.name}</strong>
